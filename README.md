@@ -1,2 +1,2 @@
 # farmer
-A (mostly)-static web-applicatiob generator.
+A (mostly)-static web-application generator.
